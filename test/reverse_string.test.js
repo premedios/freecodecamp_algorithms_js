@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var reverseString = require('../reverse_string');
+var reverseString = require('../src/reverse_string');
 
 describe('Reverse String Algorithm', () => {
   it('should return a string', () => {

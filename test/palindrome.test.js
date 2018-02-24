@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var palindrome = require('../palindrome');
+var palindrome = require('../src/palindrome');
 
 describe('Check for Palindromes', () => {
   it('should return a boolean', () => {

@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var factorialize = require('../factorialize');
+var factorialize = require('../src/factorialize');
 
 describe('Factorialize A Number', () => {
   it('should return a number', () => {
